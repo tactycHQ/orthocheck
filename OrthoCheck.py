@@ -1,3 +1,6 @@
+#OrthoCheck
+#Anubhav Srivastava
+
 import os
 
 SPFilePath = "C:\\Users\\anubhav\\Desktop\\X-Plane 11\Custom Scenery\\scenery_packs.ini"
